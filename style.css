@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+  background-color: #00000070; 
+}
+#screen{
+  border: 5px solid black;
+}
+h2{
+  color: #e5ff00c4;
+}
+span{
+  color: rgb(0, 255, 98);
+}
+.spn{
+  color: #e5ff00c4;
+}
+
